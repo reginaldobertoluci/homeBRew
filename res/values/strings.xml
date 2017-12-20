@@ -1,8 +1,8 @@
 <resources>
 
     <!-- Activity names -->
-    <string name="app_name">Biermacht</string>
-    <string name="title_activity_main">Biermacht</string>
+    <string name="app_name">homeBRew</string>
+    <string name="title_activity_main">homeBRew</string>
     <string name="title_activity_display_recipe">Recipe Details</string>
     <string name="title_activity_display_style">Display Style</string>
     <string name="title_activity_add_new_recipe">Add New Recipe</string>
